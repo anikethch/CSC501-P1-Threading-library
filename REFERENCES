@@ -1,0 +1,7 @@
+1. https://en.wikipedia.org/wiki/Setcontext
+   For understanding context routines and reference code for the same
+2. http://pubs.opengroup.org/onlinepubs/009695399/functions/makecontext.html
+   For understanding context switching syntax
+3. https://github.com/mayurva/OS_P1_MyThread
+   Used as reference for understanding Parent-child relationship
+4. Discussed about context switching routines with Jasleen Kaur Jabbal (jkjabbal)
